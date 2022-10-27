@@ -1,0 +1,15 @@
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/bin/Debug/net6.0/LabaratoryWork1
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/bin/Debug/net6.0/LabaratoryWork1.deps.json
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/bin/Debug/net6.0/LabaratoryWork1.runtimeconfig.json
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/bin/Debug/net6.0/LabaratoryWork1.dll
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/bin/Debug/net6.0/LabaratoryWork1.pdb
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.csproj.AssemblyReference.cache
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.AssemblyInfoInputs.cache
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.AssemblyInfo.cs
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.csproj.CoreCompileInputs.cache
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.dll
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/refint/LabaratoryWork1.dll
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.pdb
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/LabaratoryWork1.genruntimeconfig.cache
+/Users/oleksii/RiderProjects/ConsoleApp3/LabaratoryWork1/obj/Debug/net6.0/ref/LabaratoryWork1.dll
